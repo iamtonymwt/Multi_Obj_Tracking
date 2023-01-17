@@ -6,8 +6,10 @@ Store CenterNet based MOT model and fpks
 This project includes the Muti-object tracking model based on CenterNet. This repo contains traning codes, SDSP converted fpk file, and input&output tensor dimension info.
 
 <center>
-<figure class='half'>
-<img width ='100', height = '250' src=./images/model_structure.png/> &emsp;
+<figure >
+<img width ='300', height = '650' src=./images/model_structure.png/>
+</figure>
+<figure >
 <img width ='300', height = '250' src=./images/static_demo.png/>
 </figure>
 </center>
@@ -17,7 +19,9 @@ This project includes the Muti-object tracking model based on CenterNet. This re
 ## Project Demo
 
 <center>
-<video src="./images/video_DR_1.mp4"></video>
+<figure >
+<img width ='300', height = '300' src=./images/demo.gif/>
+</figure>
 </center>
 
 

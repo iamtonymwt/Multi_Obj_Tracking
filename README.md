@@ -14,6 +14,8 @@ This project includes the Muti-object tracking model based on CenterNet. This re
 <center> <font size = 2> model tail and prediction effect </font> </center>
 <br/>
 
+## Project Demo
+
 <center>
 <video src="./images/video_DR_1.mp4"></video>
 </center>
@@ -28,7 +30,7 @@ This project includes the Muti-object tracking model based on CenterNet. This re
 5. fpk contains the final fpk results and model infos
 
 ## MOT Pipeline
-PIPELINE in English
+### PIPELINE in English
 1. Dataset Preparation, need to follow PSACAL VOC format
       * dataset and scripts are all in folder ./dataset. Follow the .md file as instruction
 2. Converting dataset into TFRecord format using google api
@@ -42,7 +44,7 @@ PIPELINE in English
 9. Using scripts in ./MultiObjTracking/SDSP/ for SDSP conversion
 
 
-PIPELINE in Chinese
+### PIPELINE in Chinese
 1. 数据集准备，需要满足规定格式（PSACAL VOC）
       * 在./dataset里有caltech数据集，和相应的转换代码，按照README运行即可
 2. 调用google api的脚本完成到tfrecord的转化

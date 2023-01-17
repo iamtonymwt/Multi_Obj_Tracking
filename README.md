@@ -8,7 +8,7 @@ This project includes the Muti-object tracking model based on CenterNet. This re
 <center>
 <figure class='half'>
 <img width ='100', height = '250' src=./images/model_structure.png/> &emsp;
-<img width ='300', height = '250' src=./images/static_demo.png/>;
+<img width ='300', height = '250' src=./images/static_demo.png/>
 </figure>
 </center>
 <center> <font size = 2> model tail and prediction effect </font> </center>
